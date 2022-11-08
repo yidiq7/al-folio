@@ -1,0 +1,14 @@
+Active:
+    - name: Miaochen Jin
+      url:
+      email: miaochenjin@g.harvard.edu
+      institute: Harvard University
+      image: members/miaochen.jpg    
+      field: hep-ph, hep-ex
+
+    - name: Yidi Qi
+      url:
+      email: y.qi@northeastern.edu
+      institute: Northeastern University
+      image: members/yidi.png
+      field: hep-th, cs.LG
