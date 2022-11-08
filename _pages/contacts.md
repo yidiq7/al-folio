@@ -11,7 +11,7 @@ nav_order: 3
   <div class="member-profile-two-col">
     <a href="{{ member.url }}" target="_blank"><img src="{{ member.image | prepend: '/assets/img/' | relative_url }}" /></a>
     <ul class="member-info">
-      <li><span>Name</span> <a href="{{ member.url }}" target="_blank">{{ member.name }}</a></li>
+      <li><span>Name:</span> <a href="{{ member.url }}" target="_blank">{{ member.name }}</a></li>
       <li><span>Institute:</span> {{ member.institute }}</li>
       <li><span>Email:</span> <a href="mailto:{{ member.email | encode_email }}" target="_blank">{{ member.email }}</a></li>
       {%- if member.field -%}
