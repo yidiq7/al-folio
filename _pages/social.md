@@ -5,7 +5,7 @@ permalink: /social/
 description: 
 nav: true
 nav_order: 2
-display_categories: [outdoors]
+display_categories: [2022]
 horizontal: false
 ---
 

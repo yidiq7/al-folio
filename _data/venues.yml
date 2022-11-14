@@ -13,4 +13,8 @@
 "cs.LG":
   color: "#2698BA"
 
+"cond-mat":
+  color: "#F29105"
 
+"quant-ph":
+  color: "#00ab37"
