@@ -7,6 +7,13 @@ Active:
       image: members/miaochen.jpg
       field: hep-ph, hep-ex
 
+    - name: Mingda Li
+      url:
+      email: mingdali@g.harvard.edu
+      institute: Harvard University
+      image: members/mingda.jpg
+      field: quant-ph
+
     - name: Yidi Qi
       url:
       email: y.qi@northeastern.edu
