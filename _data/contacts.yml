@@ -1,7 +1,7 @@
 Active:
 
     - name: Miaochen Jin
-      url:
+      url: miaochenjin.GitHub.io
       email: miaochenjin@g.harvard.edu
       institute: Harvard University
       image: members/miaochen.jpg
@@ -12,7 +12,7 @@ Active:
       email: mingdali@g.harvard.edu
       institute: Harvard University
       image: members/mingda.jpg
-      field: quant-ph
+      field: atom-ph, chem-ph
 
     - name: Yidi Qi
       url:

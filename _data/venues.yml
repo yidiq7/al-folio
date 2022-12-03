@@ -18,3 +18,9 @@
 
 "quant-ph":
   color: "#00ab37"
+
+"atom-ph":
+  color: "#B7D12A"
+
+"chem-ph":
+  color: "#f92080"
