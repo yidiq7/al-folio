@@ -14,8 +14,15 @@ Active:
       image: members/mingda.jpg
       field: atom-ph, chem-ph
 
+    - name: Nadie Yiluo LiTenn
+      url: https://litenn.com
+      email: nadie@brandeis.edu
+      institute: Brandeis University
+      image: members/yiluo.jpg
+      field: gr-qc, cond-mat
+
     - name: Yidi Qi
-      url:
+      url: https://inspirehep.net/authors/1835911
       email: y.qi@northeastern.edu
       institute: Northeastern University
       image: members/yidi.png
