@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <b>B</b>oston <b>A</b>rea <b>Ch</b>inese <br> <b>Y</b>oung <b>P</b>hysicists <b>J</b>ournal <b>C</b>lub
+title: <b>B</b>oston <b>A</b>rea <b>Ch</b>inese <br> <b>Y</b>oung <b>P</b>hysicists <b>S</b>eminar
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
