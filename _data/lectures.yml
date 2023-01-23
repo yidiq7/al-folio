@@ -1,4 +1,28 @@
+- title: "Spring 2023"
+
+- date: 2/4
+  speaker: Yuanjie Ren
+  institute: MIT
+  title: >
+    <strong>Condensed matter system and its application in topological quantum computation</strong>
+  slides: 
+
+- date: 2/11
+  speaker: Yu Xie
+  institute: Harvard U.
+  title: >
+    <strong>Modeling atomic interactions from density functional theory to Gaussian processes</strong>
+  slides:
+  
+  
 - title: "Fall 2022"
+
+- date: 12/3
+  speaker: Prof. Norman Yao
+  institute: Harvard U.
+  title: >
+    <strong>Introduction to Time Crystals</strong>
+  slides: 
 
 - date: 11/12
   speaker: Miaochen Jin
