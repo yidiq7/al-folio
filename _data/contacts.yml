@@ -34,3 +34,10 @@ Active:
       institute: MIT
       image: members/yuanjie.jpg
       field: cond-mat, quant-ph
+      
+    - name: Menghang(David) Wang
+      url: https://scholar.google.com/citations?user=NSV5uq4AAAAJ&hl=en
+      email: menghangwang@g.harvard.edu
+      institute: Harvard University
+      image: members/mhw.jpg
+      field: comp-ph, mtrl-sci
